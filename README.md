@@ -1,7 +1,7 @@
 haiiiii  
 🦈 blahaj enthusiast 🦈  
 I'm well versed in python!  
-Learning C, Lua, Bash, vimscript, Javascript, and various libraries!  
+Learning C, Lua, Bash, Vimscript, Javascript, and various libraries!  
 
 
 <!---
