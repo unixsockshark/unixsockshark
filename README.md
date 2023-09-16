@@ -4,7 +4,7 @@
   <img src="https://img.shields.io/badge/Tauri-662D91?style=for-the-badge&logo=tauri&logoColor=white">
   <img src="https://img.shields.io/badge/unixsockss-5865F2?style=for-the-badge&logo=discord&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <a href="https://monkeytype.com/profile/unixsocks">
+  <img src="https://img.shields.io/badge/MySQL-FFA500?style=for-the-badge&logo=mysql&logoColor=white">  <a href="https://monkeytype.com/profile/unixsocks">
   <img src="https://img.shields.io/badge/MonkeyType-unixsocks-<COLOR>?style=for-the-badge&logo=monkeytype&logoColor=yellow">
 </a>
 
