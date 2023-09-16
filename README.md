@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/unixsockss-5865F2?style=for-the-badge&logo=discord&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <a href="https://monkeytype.com/user/unixsocks">
-    <img src="https://img.shields.io/badge/MonkeyType-unixsocks-<COLOR>?style=for-the-badge&logo=monkeytype&logoColor=yellow">
+    <img src="https://img.shields.io/badge/MonkeyType-https://monkeytype.com/profile/unixsocks-<COLOR>?style=for-the-badge&logo=monkeytype&logoColor=yellow">
   </a>
 </p>
 <p align="center">
