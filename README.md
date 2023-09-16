@@ -8,3 +8,7 @@
     <img src="https://img.shields.io/badge/MonkeyType-unixsocks-<COLOR>?style=for-the-badge&logo=monkeytype&logoColor=yellow">
   </a>
 </p>
+<p align="center">
+  <img src="https://cdn141.picsart.com/360415927075211.png" width="400">
+</p>
+
